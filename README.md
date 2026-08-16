@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/adityaXRepo/DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [2029-stone-game-ix](https://github.com/adityaXRepo/DSA/tree/master/2029-stone-game-ix) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/adityaXRepo/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adityaXRepo/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/adityaXRepo/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/adityaXRepo/DSA/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/adityaXRepo/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adityaXRepo/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Combinatorics
@@ -113,9 +115,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/adityaXRepo/DSA/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/adityaXRepo/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Number Theory
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/adityaXRepo/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+## Greedy
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/adityaXRepo/DSA/tree/master/2029-stone-game-ix) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/adityaXRepo/DSA/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/adityaXRepo/DSA/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/adityaXRepo/DSA/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/adityaXRepo/DSA/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
