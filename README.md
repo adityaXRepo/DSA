@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/adityaXRepo/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3620-network-recovery-pathways](https://github.com/adityaXRepo/DSA/tree/master/3620-network-recovery-pathways) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/adityaXRepo/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/adityaXRepo/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/adityaXRepo/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adityaXRepo/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/adityaXRepo/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/adityaXRepo/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/adityaXRepo/DSA/tree/master/3620-network-recovery-pathways) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/adityaXRepo/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
@@ -141,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/adityaXRepo/DSA/tree/master/2029-stone-game-ix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/adityaXRepo/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
