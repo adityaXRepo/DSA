@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adityaXRepo/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1301-number-of-paths-with-max-score](https://github.com/adityaXRepo/DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adityaXRepo/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2029-stone-game-ix](https://github.com/adityaXRepo/DSA/tree/master/2029-stone-game-ix) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/adityaXRepo/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adityaXRepo/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adityaXRepo/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/adityaXRepo/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3620-network-recovery-pathways](https://github.com/adityaXRepo/DSA/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
@@ -156,4 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/adityaXRepo/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Two Pointers
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adityaXRepo/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adityaXRepo/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
