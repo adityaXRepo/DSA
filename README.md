@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/adityaXRepo/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/adityaXRepo/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2029-stone-game-ix](https://github.com/adityaXRepo/DSA/tree/master/2029-stone-game-ix) |
+| [2747-count-zero-request-servers](https://github.com/adityaXRepo/DSA/tree/master/2747-count-zero-request-servers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/adityaXRepo/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adityaXRepo/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/adityaXRepo/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adityaXRepo/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2747-count-zero-request-servers](https://github.com/adityaXRepo/DSA/tree/master/2747-count-zero-request-servers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/adityaXRepo/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/adityaXRepo/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityaXRepo/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adityaXRepo/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2747-count-zero-request-servers](https://github.com/adityaXRepo/DSA/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityaXRepo/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Breadth-First Search
 |  |
@@ -166,4 +169,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/adityaXRepo/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/adityaXRepo/DSA/tree/master/2747-count-zero-request-servers) |
 <!---LeetCode Topics End-->
