@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adityaXRepo/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1301-number-of-paths-with-max-score](https://github.com/adityaXRepo/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/adityaXRepo/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityaXRepo/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1882-process-tasks-using-servers](https://github.com/adityaXRepo/DSA/tree/master/1882-process-tasks-using-servers) |
 | [2029-stone-game-ix](https://github.com/adityaXRepo/DSA/tree/master/2029-stone-game-ix) |
 | [2747-count-zero-request-servers](https://github.com/adityaXRepo/DSA/tree/master/2747-count-zero-request-servers) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityaXRepo/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/adityaXRepo/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/adityaXRepo/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/adityaXRepo/DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityaXRepo/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityaXRepo/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3620-network-recovery-pathways](https://github.com/adityaXRepo/DSA/tree/master/3620-network-recovery-pathways) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/adityaXRepo/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -121,12 +124,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityaXRepo/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/adityaXRepo/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/adityaXRepo/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Math
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adityaXRepo/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityaXRepo/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2029-stone-game-ix](https://github.com/adityaXRepo/DSA/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/adityaXRepo/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityaXRepo/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -134,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityaXRepo/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3312-sorted-gcd-pair-queries](https://github.com/adityaXRepo/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Counting
 |  |
@@ -181,9 +187,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityaXRepo/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/adityaXRepo/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/adityaXRepo/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityaXRepo/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityaXRepo/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityaXRepo/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityaXRepo/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
