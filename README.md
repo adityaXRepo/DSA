@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityaXRepo/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3620-network-recovery-pathways](https://github.com/adityaXRepo/DSA/tree/master/3620-network-recovery-pathways) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/adityaXRepo/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/adityaXRepo/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/adityaXRepo/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
@@ -32,10 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/adityaXRepo/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/adityaXRepo/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/adityaXRepo/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/adityaXRepo/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adityaXRepo/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/adityaXRepo/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -113,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/adityaXRepo/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/adityaXRepo/DSA/tree/master/2685-count-the-number-of-complete-components) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/adityaXRepo/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -162,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/adityaXRepo/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/adityaXRepo/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
@@ -172,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/adityaXRepo/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/adityaXRepo/DSA/tree/master/2747-count-zero-request-servers) |
+## Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/adityaXRepo/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/adityaXRepo/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
