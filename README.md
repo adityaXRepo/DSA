@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/adityaXRepo/DSA/tree/master/0088-merge-sorted-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adityaXRepo/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1301-number-of-paths-with-max-score](https://github.com/adityaXRepo/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/adityaXRepo/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -178,10 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/adityaXRepo/DSA/tree/master/0088-merge-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/adityaXRepo/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/adityaXRepo/DSA/tree/master/0088-merge-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/adityaXRepo/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/adityaXRepo/DSA/tree/master/2747-count-zero-request-servers) |
 ## Tree
